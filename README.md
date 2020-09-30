@@ -4,7 +4,8 @@ A simple Chatbot for Facebook's personal profile that can chat with any of your 
 
 ## Getting Started
 
-You will need to register a free account on [dialogflow](https://dialogflow.com/). After that you need to create an agent and train it ([how to create and train an agent using dialogflow](http://www.letscodepro.com/chatbot-for-facebooks-personal-profile-using-python-dialogflow-p2/)). After that copy Client Access Token somewhere because we will be needing that later. 
+Welcome to the Chatbot For Facebook's personal profile. With a positive hope of approaching towards success, we are working with this project with full precision and perfection.
+To start with it, you will need to register a free account on [dialogflow](https://dialogflow.com/). After that you need to create an agent and train it ([how to create and train an agent using dialogflow](http://www.letscodepro.com/chatbot-for-facebooks-personal-profile-using-python-dialogflow-p2/)). After that copy Client Access Token somewhere because we will be needing that later. 
 
 ### Installation
 
